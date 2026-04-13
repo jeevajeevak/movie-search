@@ -63,7 +63,7 @@ Never commit your `.env` file — it is already blocked by `.gitignore`.
 
 ## Live demo
 
-[View live →](https://movie-search-1h5nh4e2a-kjeeva151204-2481s-projects.vercel.app/)
+[View live →](https://movie-search-ijj8v47wx-kjeeva151204-2481s-projects.vercel.app/)
 
 ## Screenshot
 
