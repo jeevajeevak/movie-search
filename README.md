@@ -92,4 +92,4 @@ This product uses the TMDB API but is not endorsed or certified by TMDB.
 
 ## Author
 
-Your Name — [github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+Jeeva — [github.com/jeevajeevak](https://github.com/jeevajeevak)
